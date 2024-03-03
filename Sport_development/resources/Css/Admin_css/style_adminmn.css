@@ -1,9 +1,10 @@
 body{
     background:url('/api/images/menu.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 40% auto;
     height: 100vh;
     background-position: 80%;
+    
 }
 
 .gradient-custom {    
